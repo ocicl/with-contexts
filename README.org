@@ -4,8 +4,9 @@ This library contains an implementation of a WITH macro with
 "contexts" inspired by Python, which, in turn was obviously inspired
 by Common Lisp macros (and other earlier languages, like Pascal).
 
+
 |---------+------------------------------------------------------------------|
 | source  | git:https://gitlab.common-lisp.net/mantoniotti/with-contexts.git |
-| commit  | 000c46e80                                                        |
+| commit  | 000c46e                                                          |
 | systems | with-contexts                                                    |
 |---------+------------------------------------------------------------------|
